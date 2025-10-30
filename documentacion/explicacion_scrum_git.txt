@@ -1,0 +1,7 @@
+SCRUM
+
+SCRUM ayuda a que el equipo trabaje de forma más organizada y productiva, ya que divide las tareas en ciclos cortos llamados sprints, donde se entregan avances constantes. Los roles principales son el Product Owner (dice qué se debe hacer), el Scrum Master (guía el proceso) y el equipo de desarrollo (realiza el trabajo). Además, con reuniones como la Daily Scrum y la retrospectiva, se mejora la comunicación y se detectan problemas a tiempo.
+
+ Git y GitHub 
+
+Git y GitHub sirven para que varias personas puedan trabajar en el mismo proyecto sin dañarse el trabajo entre sí. Las ramas (branches) permiten probar nuevas funciones o corregir errores sin tocar el código principal. Si se trabaja directamente en main, se corre el riesgo de dañar algo, por eso las ramas ayudan a mantener el proyecto estable mientras se hacen cambios.
