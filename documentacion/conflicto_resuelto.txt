@@ -1,0 +1,11 @@
+Conflicto generado al intentar fusionar la rama hotfix-actualizacion en main.
+
+Archivo afectado: src/index.html
+
+Motivo:
+Ambas ramas modificaron el mismo título <h1> en el archivo index.html.
+
+Solución:
+El conflicto fue identificado correctamente en GitHub y puede resolverse
+manteniendo la versión actualizada: 
+<h1>Productos EcoMarket - Actualizado</h1>
